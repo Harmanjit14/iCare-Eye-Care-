@@ -1,6 +1,9 @@
 # **iCare**
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+## Video Demo
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/MjHZ191f9Ao)
+
 ## Inspiration
 In this corona period, with almost everything online we can't avoid long screen exposure but due to this we experience unhealthy eye conditions like watering of eyes, difficulty in focusing etc. To overcome this problem we developed a project that will monitor your limit and monitor your exposure.
 
